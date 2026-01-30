@@ -13,15 +13,17 @@ public class Calculadora {
        double a = sc.nextDouble();
        System.out.println("Ingresa el segundo numero: ");
        double b = sc.nextDouble();
-       System.out.println("Ingresa el tercer numero: ");
-       double c = sc.nextDouble();
-       System.out.println("Ingresa el cuarto numero: ");
-       double d = sc.nextDouble();
-       
+
+       //Suma suma = new Suma();
+       //Resta resta =new Resta();
        //Multiplicacion multiplicacion = new Multiplicacion();
        //Division division = new Division();
+       
+       //System.out.println("El resultado de la suma es: "+suma.operacion(a,b,c,d));
+       //System.out.println("El resultado de la resta es: "+resta.operacion(a,b,c,d);
        //System.out.println("El resultado de la multiplicación es: "+multiplicacion.operacion(a,b,c,d));
        //System.out.println("El resultado de la division es: "+division.operacion(a,b,c,d);
+       
        
     }
     
